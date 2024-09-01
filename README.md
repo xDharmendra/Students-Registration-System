@@ -26,12 +26,12 @@ The Student Registration System is a GUI application built using Python's Tkinte
 
 1. **Clone the Repository**:
    git clone [repository-url](https://github.com/xDharmendra/Students-Registration-System.git)
-2. **Install Dependencies**:
-   Ensure you have Python installed. You can install the required packages using pip:
-   pip install -r requirements.txt
+   
+3. **Install Dependencies**:Ensure you have Python installed. You can install the required packages using pip:
+   - pip install -r requirements.txt
 
 ## Run the Application 
-  python student_registration.py
+  - python student_registration.py
 
 ## Usage
 
@@ -60,10 +60,6 @@ The Student Registration System is a GUI application built using Python's Tkinte
 ## Contributing
 
 If you want to contribute to this project, feel free to fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgments
 
