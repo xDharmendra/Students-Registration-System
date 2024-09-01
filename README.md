@@ -31,7 +31,7 @@ The Student Registration System is a GUI application built using Python's Tkinte
    - pip install -r requirements.txt
 
 ## Run the Application 
-   - python student_registration.py
+   - python Students-Registration-System.py
 
 ## Usage
 
