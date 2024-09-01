@@ -4,6 +4,9 @@
 
 The Student Registration System is a GUI application built using Python's Tkinter library, designed to manage student registration data. This system allows for the registration of student details, including personal information, class information, and parent details. It also provides functionalities to upload and display profile pictures, search for existing records, update information, and clear the form.
 
+![srs](srs.png)
+
+
 ## Features
 
 - **Automatic Registration Number**: Automatically generates a unique registration number for each new student.
